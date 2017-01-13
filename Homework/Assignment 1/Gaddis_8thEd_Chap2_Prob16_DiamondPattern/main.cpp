@@ -35,8 +35,6 @@ int main(int argc, char** argv) {
     cout<<"  ***"<<endl;
     cout<<"   *"<<endl;
 
-    
-
     //Exit stage right!
     return 0;
 }
